@@ -1,36 +1,37 @@
-# Projet 14 — Réalisez votre mission en entreprise
+# Projet 14 : Réalisez votre mission en entreprise
 
 ![Statut](https://img.shields.io/badge/Statut-%C3%80%20venir-lightgrey)
-![Format](https://img.shields.io/badge/Format-Stage%20%2F%20Alternance%20%2F%20Mission-blue)
+![Format](https://img.shields.io/badge/Format-Stage%20Consultant%20Data%20%2F%20BI%20et%20Data%20Analyst-blue)
 ![Domaine](https://img.shields.io/badge/Domaine-Mission%20professionnelle-informational)
 ![Formation](https://img.shields.io/badge/OpenClassrooms-Data%20Analyst-7451eb)
 
-> Mise en application des compétences de Data Analyst dans une mission en entreprise réelle, clôturant le parcours.
+> Mise en application des compétences de Data Analyst dans une mission en entreprise réelle, qui clôture le parcours.
 >
-> Projet à venir — mission en entreprise. Je suis activement à la recherche d'une opportunité (stage, alternance ou mission) en tant que Data Analyst / Data Engineer.
+> Stage de Consultant Data / BI et Data Analyst chez S4R, à partir d'octobre 2026, pour environ deux mois.
 
 ## Contexte
-Ce projet de mise en application en entreprise (stage, immersion ou mission en alternance) clôture le parcours Data Analyst. Il s'agit d'appliquer en contexte professionnel réel l'ensemble des compétences développées tout au long de la formation. La durée d'une mission de ce type va généralement de 2 semaines à 2 mois (70 à 280 heures).
+Ce projet de mise en application en entreprise clôture le parcours Data Analyst. Il s'agit d'appliquer, en contexte professionnel réel, l'ensemble des compétences développées tout au long de la formation. La mission prend la forme d'un stage de Consultant Data / BI et Data Analyst chez S4R, à partir d'octobre 2026, pour environ deux mois.
 
 ## Objectifs
 - Mettre en œuvre ses compétences métier en situation professionnelle réelle.
 
 ## Démarche
-1. Réalisation d'une mission de Data Analyst en entreprise.
+1. Réalisation de la mission de Consultant Data / BI et Data Analyst chez S4R : cadrage du besoin, analyses, tableaux de bord et restitution.
 2. Application du cycle complet : collecte, nettoyage, analyse, visualisation et restitution des données au service des équipes métiers.
 
 ## Livrables prévus
-- Convention de stage / mission signée.
+- Convention de stage signée.
 - Évaluation de fin de mission (ou attestation).
+- Les éléments de la mission qui pourront être partagés le seront ici après accord de l'entreprise.
 
 ## Compétences visées
 - Mise en œuvre des compétences métier de Data Analyst en environnement professionnel.
 
-## Outils & méthodes
-`SQL` · `Python` · `Power BI / Tableau` · `Communication & restitution`
+## Outils et méthodes
+`SQL` · `Python` · `Power BI / Tableau` · `Communication et restitution`
 
 ## Statut
-Projet à venir. Je suis activement à la recherche d'une opportunité (stage, alternance, mission ou emploi) en tant que Data Analyst / Data Engineer pour réaliser cette mission. Mon profil et l'ensemble de mes projets témoignent de ma motivation à mettre ces compétences au service d'une équipe : n'hésitez pas à me contacter pour échanger.
+À venir : stage de Consultant Data / BI et Data Analyst chez S4R à partir d'octobre 2026, environ deux mois, dernière étape du parcours avant le diplôme. Ce dépôt sera complété à l'issue de la mission.
 
 ---
 
